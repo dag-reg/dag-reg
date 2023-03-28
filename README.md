@@ -19,6 +19,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dag-reg&icon=8&color=10)](https://visitcount.itsvg.in)
 
-![instagram]([https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139](https://www.instagram.com/dhithimos.ej/)
+![instagram]([https://cdn-icons-png.flaticon.com/512/87/87390.png](https://www.instagram.com/dhithimos.ej/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
